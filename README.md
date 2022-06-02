@@ -23,20 +23,14 @@
 > - 运用ncurses界面库、libcurl网络库、sqlite3数据库、wiringPi驱动库；
 > - 项目还包含MJPG-Streamer开源视频方案、安卓APP开发。
 
-***Knowledge-Notes - 个人学习笔记***
-
-> - 保存技术学习过程中的笔记。
-> - 保存技术库、框架、手册等。
-> - 保存其他笔记。
-
-***Daily_Study_Code - 个人代码存档***
+***Daily_Code - 个人代码存档***
 
 > - 备份日常代码。
 > - 管理日常代码。
 
-***Daily_file_backup - 日常文件备份***
+***Linux_Study_Code - Linux代码存档***
 
-> - 备份日常文件。
+> - 备份Linux代码。
 
 
 
