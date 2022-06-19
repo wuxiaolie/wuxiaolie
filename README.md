@@ -1,9 +1,16 @@
 <h1 align="center">📔 皓清的Git仓库</h1>
 <div align="left">
-<p><strong>211硕士研究生，研究方向是嵌入式系统，努力搬砖，准备2022校招中。<strong></p>
+<p><strong>Linux技术爱好者，天道酬勤，厚积薄发。<strong></p>
     </div> 
 
 
+
+
+#### **📝个人网站**
+
+- ***[个人博客 - https://wuxiaolie.github.io/hq.github.io/](https://wuxiaolie.github.io/hq.github.io/)（干货满满，欢迎访问）***
+- ***[Gitee仓库 - https://gitee.com/yang-haoqing/](https://gitee.com/yang-haoqing/)***
+- ***[GitHub仓库 - https://github.com/wuxiaolie/](https://github.com/wuxiaolie/)***
 
 
 
@@ -66,8 +73,8 @@
 ***编程语言***
 
 > - `C / C++ / 汇编  ——  ★★★`
-> - `Makefile & shell & (CMake/GCC/GDB/Valgrind/SSH)  ——  ★★`
-> - `Java / Python / VB / Git / Matlab  ——  ★`
+> - `Makefile & Shell & (CMake/GCC/GDB/Git/Valgrind/SSH)  ——  ★★`
+> - `Java / Python / VB / Matlab  ——  ★`
 
 ***工程软件***
 
@@ -82,18 +89,9 @@
 
 
 
-#### **📝个人网站**
+#### **📋 版权声明**
 
-- ***个人博客 - https://wuxiaolie.github.io/hq.github.io/***
-- ***CSDN博客 - https://blog.csdn.net/weixin_45346142***
-- ***Gitee仓库 - https://gitee.com/yang-haoqing/***
-- ***GitHub仓库 - https://github.com/wuxiaolie***
-
-
-
-#### **📋 仓库迭代**
-
-- ***Accumulate day by day and month by month.***
+- ***仓库内容仅作为学习交流使用，其中部分内容可能来自网络，如涉及作品内容、版权和其它问题，请联系我进行处理，感谢。***
 
 
 
@@ -109,14 +107,14 @@
 
 
 
-#### 🍖 **咨询交流**
+#### **🎅咨询交流**
 
 - ***QQ : 970407688***
 - ***Email : haoqingboy@163.com***
 
 
 
-#### **🎅 友情赞助**
+#### **🍖  友情赞助**
 
 - ***Alipay : 970407688@qq.com***
 
@@ -132,3 +130,4 @@
 
 - ***Welcome. Please leave a message if you have any questions.***
 - ***欢迎光临，~~一键三连~~，给个star！***
+
