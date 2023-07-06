@@ -8,9 +8,8 @@
 
 #### **📝个人网站**
 
-- ***[个人博客 - https://wuxiaolie.github.io/hq.github.io/](https://wuxiaolie.github.io/hq.github.io/)（干货满满，欢迎访问）***
-- ***[Gitee仓库 - https://gitee.com/yang-haoqing/](https://gitee.com/yang-haoqing/)***
 - ***[GitHub仓库 - https://github.com/wuxiaolie/](https://github.com/wuxiaolie/)***
+- ***[个人博客 - https://wuxiaolie.github.io/hq.github.io/](https://wuxiaolie.github.io/hq.github.io/)***
 
 
 
@@ -29,16 +28,6 @@
 >
 > - 项目使用make工具进行编译，可自动配置软链接，具体见项目**README**文档。
 
-***[WirelessSersorMS - 无线传感监测系统](https://gitee.com/yang-haoqing/wireless-sersor-ms)***
-
-【[GitHub链接](https://github.com/wuxiaolie/WirelessSersorMS)】  【[Gitee链接](https://gitee.com/yang-haoqing/wireless-sersor-ms)】
-
-> - 系统以Zigbee为通讯协议，基于CC2530开发的协调器和多个终端节点进行组网，并将接收的数据通过串口发送到Linux主控。
-> - 用户可通过Web浏览器访问服务器（主控），实现登录、注册、数据库操作；
-> - 可远程遥控硬件，采集环境信息；还可进行远程监控、拍照，图片显示等功能。
-> - 应用技术：多线程，Zigbee，Web开发(cgi/boa)，驱动开发，多种传感器(ADC/温湿度/烟雾/光感/LCD)。  
-> - 项目使用make工具进行编译，具体见项目**README**文档。
-
 ***[Knowledge-Notes - 个人学习笔记](https://github.com/wuxiaolie/Knowledge-Notes)***
 
 【[GitHub链接](https://github.com/wuxiaolie/Knowledge-Notes)】  【Gitee-不支持图床外链无法公开仓库】
@@ -49,43 +38,12 @@
 > - 工程实践，项目开发，软件使用，校招面试等等。
 > - 笔记皆为**Markdown**语法文档，可直接编辑修改。
 
-***[Daily_Study_Code - 个人代码存档](https://gitee.com/yang-haoqing/daily_-study_-code)***
-
-> - 备份日常代码。
-> - 管理日常代码。
-
-***[Daily_file_backup - 日常文件备份](https://gitee.com/yang-haoqing/daily_file_backup)***
-
-> - 备份日常文件。
-
 
 
 #### :book: **学习格言**
 
-- *书籍是人类进步的阶梯。  -  高尔基*
 - *学知不足，业精于勤。 - 韩愈*
 - *博学之，审问之，慎思之，明辨之，笃行之。 - 《礼记》*
-
-
-
-#### **🚀 知识技能**
-
-***编程语言***
-
-> - `C / C++ / 汇编  ——  ★★★`
-> - `Makefile & Shell & (CMake/GCC/GDB/Git/Valgrind/SSH)  ——  ★★`
-> - `Java / Python / VB / Matlab  ——  ★`
-
-***工程软件***
-
-> - `LabView & Multisim & AutoCAD & SolidWorks ——  ★★`
-> - `Altium Designer & Proteus  ——  ★`
-
-***知识基础***
-
-> - 计算机操作系统  ——  ★★★
-> - 计算机组成原理  ——  ★★★
-> - 计算机网络  ——  ★★★
 
 
 
@@ -95,7 +53,7 @@
 
 
 
-#### **🔨 内卷口号**
+#### **🚀 内卷口号**
 
 - ***God helps those who help themselves.***
 
